@@ -10,7 +10,6 @@ namespace Helpdesk.Api.Controllers;
 /// </summary>
 [ApiController]
 [Route("api/[controller]")]
-[ApiExplorerSettings(GroupName = "Auth")]
 public class AuthController : ControllerBase
 {
     private readonly IAuthService _authService;

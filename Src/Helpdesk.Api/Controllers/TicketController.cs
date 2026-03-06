@@ -12,7 +12,6 @@ namespace Helpdesk.Api.Controllers;
 [Authorize]
 [ApiController]
 [Route("api/[controller]")]
-[ApiExplorerSettings(GroupName = "Tickets")]
 public class TicketController : ControllerBase
 {
     private readonly ITicketService _ticketService;
