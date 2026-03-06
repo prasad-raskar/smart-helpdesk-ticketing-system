@@ -159,3 +159,4 @@
 /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Api/obj/Debug/net8.0/Helpdesk.Api.pdb
 /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Api/obj/Debug/net8.0/Helpdesk.Api.genruntimeconfig.cache
 /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Api/obj/Debug/net8.0/ref/Helpdesk.Api.dll
+/Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Api/obj/Debug/net8.0/Helpdesk.Api.sourcelink.json

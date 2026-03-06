@@ -13,3 +13,4 @@
 /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Application/obj/Debug/net8.0/refint/Helpdesk.Application.dll
 /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Application/obj/Debug/net8.0/Helpdesk.Application.pdb
 /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Application/obj/Debug/net8.0/ref/Helpdesk.Application.dll
+/Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Application/obj/Debug/net8.0/Helpdesk.Application.sourcelink.json

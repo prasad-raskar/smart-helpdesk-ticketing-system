@@ -1,0 +1,25 @@
+2026-03-07 00:27:40.950 +05:30 [INF] [STARTUP] Checking database connectivity...
+2026-03-07 00:27:41.253 +05:30 [INF] [STARTUP] Database connected successfully.
+2026-03-07 00:27:41.253 +05:30 [INF] [STARTUP] Validating configuration settings...
+2026-03-07 00:27:41.253 +05:30 [INF] [STARTUP] Configuration validation passed.
+2026-03-07 00:27:41.254 +05:30 [INF] Starting web host
+2026-03-07 00:28:22.949 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-03-07 00:28:22.964 +05:30 [INF] HTTP GET /swagger/index.html responded 404 in 16.4814 ms
+2026-03-07 00:29:18.597 +05:30 [INF] [STARTUP] Checking database connectivity...
+2026-03-07 00:29:18.927 +05:30 [INF] [STARTUP] Database connected successfully.
+2026-03-07 00:29:18.927 +05:30 [INF] [STARTUP] Validating configuration settings...
+2026-03-07 00:29:18.928 +05:30 [INF] [STARTUP] Configuration validation passed.
+2026-03-07 00:29:18.928 +05:30 [INF] Starting web host
+2026-03-07 00:29:27.346 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-03-07 00:29:27.362 +05:30 [INF] HTTP GET /swagger responded 404 in 17.8944 ms
+2026-03-07 00:29:29.417 +05:30 [INF] HTTP GET /swagger responded 404 in 2.5134 ms
+2026-03-07 00:29:33.514 +05:30 [INF] HTTP GET / responded 404 in 0.9726 ms
+2026-03-07 00:29:39.447 +05:30 [INF] HTTP GET / responded 404 in 0.3493 ms
+2026-03-07 00:30:04.260 +05:30 [INF] HTTP GET /swagger responded 404 in 0.1076 ms
+2026-03-07 00:31:39.332 +05:30 [INF] [STARTUP] Checking database connectivity...
+2026-03-07 00:31:39.605 +05:30 [INF] [STARTUP] Database connected successfully.
+2026-03-07 00:31:39.605 +05:30 [INF] [STARTUP] Validating configuration settings...
+2026-03-07 00:31:39.605 +05:30 [INF] [STARTUP] Configuration validation passed.
+2026-03-07 00:31:39.606 +05:30 [INF] Starting web host
+2026-03-07 00:32:11.857 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-03-07 00:32:11.875 +05:30 [INF] HTTP GET /favicon.ico responded 404 in 21.7394 ms

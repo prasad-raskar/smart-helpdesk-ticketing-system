@@ -17,3 +17,4 @@
 /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Infrastructure/obj/Debug/net8.0/Helpdesk.Infrastructure.pdb
 /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Infrastructure/obj/Debug/net8.0/Helpdesk.Infrastructure.genruntimeconfig.cache
 /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Infrastructure/obj/Debug/net8.0/ref/Helpdesk.Infrastructure.dll
+/Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Infrastructure/obj/Debug/net8.0/Helpdesk.Infrastructure.sourcelink.json
