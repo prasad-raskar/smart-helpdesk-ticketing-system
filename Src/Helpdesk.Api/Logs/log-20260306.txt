@@ -1,0 +1,22 @@
+2026-03-06 23:52:36.065 +05:30 [INF] [STARTUP] Checking database connectivity...
+2026-03-06 23:52:50.871 +05:30 [FTL] [FATAL] Could not connect to the database. Please check your connection string.
+2026-03-06 23:52:50.872 +05:30 [FTL] [FATAL] An error occurred during application startup validation.
+System.Exception: Database connection failure.
+   at Program.<Main>$(String[] args) in /Users/pranavturkar/Desktop/Smart Helpdesk Ticketing System/Src/Helpdesk.Api/Program.cs:line 117
+2026-03-06 23:55:54.453 +05:30 [INF] [STARTUP] Checking database connectivity...
+2026-03-06 23:55:54.739 +05:30 [INF] [STARTUP] Database connected successfully.
+2026-03-06 23:55:54.739 +05:30 [INF] [STARTUP] Validating configuration settings...
+2026-03-06 23:55:54.739 +05:30 [INF] [STARTUP] Configuration validation passed.
+2026-03-06 23:55:54.740 +05:30 [INF] Starting web host
+2026-03-06 23:55:54.746 +05:30 [WRN] No XML encryptor configured. Key {ab91c2c2-5382-4c98-833a-019271eb04a5} may be persisted to storage in unencrypted form.
+2026-03-06 23:56:07.035 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-03-06 23:56:07.050 +05:30 [INF] HTTP HEAD /swagger/index.html responded 404 in 14.8699 ms
+2026-03-06 23:56:14.494 +05:30 [INF] HTTP HEAD /swagger responded 404 in 0.5319 ms
+2026-03-06 23:56:18.463 +05:30 [INF] HTTP HEAD /api/ticket responded 405 in 0.8844 ms
+2026-03-06 23:56:22.590 +05:30 [INF] HTTP GET /api/ticket responded 401 in 2.6215 ms
+2026-03-06 23:56:26.301 +05:30 [INF] HTTP GET /api/ticket responded 401 in 0.7305 ms
+2026-03-06 23:58:18.183 +05:30 [INF] [STARTUP] Checking database connectivity...
+2026-03-06 23:58:18.484 +05:30 [INF] [STARTUP] Database connected successfully.
+2026-03-06 23:58:18.485 +05:30 [INF] [STARTUP] Validating configuration settings...
+2026-03-06 23:58:18.485 +05:30 [INF] [STARTUP] Configuration validation passed.
+2026-03-06 23:58:18.486 +05:30 [INF] Starting web host

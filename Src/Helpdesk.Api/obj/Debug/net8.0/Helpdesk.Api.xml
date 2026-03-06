@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Helpdesk.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Helpdesk.Api.Controllers.AuthController">
+            <summary>
+            Handles user onboarding and authentication.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.AuthController.Register(Helpdesk.Application.DTOs.CreateUserRequest)">
+            <summary>
+            Registers a new user into the system.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.AuthController.Login(Helpdesk.Application.DTOs.LoginRequest)">
+            <summary>
+            Authenticates a user and provides a JWT access token.
+            </summary>
+        </member>
+        <member name="T:Helpdesk.Api.Controllers.CommentController">
+            <summary>
+            Facilitates communication on specific tickets through comments.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.CommentController.AddComment(Helpdesk.Application.DTOs.CreateCommentRequest)">
+            <summary>
+            Adds a new comment or reply to an existing ticket.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.CommentController.GetCommentsByTicket(System.Int32)">
+            <summary>
+            Retrieves all comments associated with a specific ticket.
+            </summary>
+        </member>
+        <member name="T:Helpdesk.Api.Controllers.TicketController">
+            <summary>
+            Manages ticket operations including creation, retrieval, assignment, and lifecycle updates.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.TicketController.GetAll(Helpdesk.Application.DTOs.TicketQueryRequest)">
+            <summary>
+            Retrieves a paginated list of tickets with optional filtering and sorting.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.TicketController.GetById(System.Int32)">
+            <summary>
+            Retrieves full details of a specific ticket by its ID.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.TicketController.Create(Helpdesk.Application.DTOs.CreateTicketRequest)">
+            <summary>
+            Creates a new support ticket.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.TicketController.UpdateStatus(System.Int32,System.String)">
+            <summary>
+            Updates the status of an existing ticket.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.TicketController.AssignTicket(Helpdesk.Application.DTOs.AssignTicketRequest)">
+            <summary>
+            Assigns a ticket to a specific agent.
+            </summary>
+        </member>
+        <member name="M:Helpdesk.Api.Controllers.TicketController.Delete(System.Int32)">
+            <summary>
+            Deletes a ticket from the system.
+            </summary>
+        </member>
+    </members>
+</doc>
